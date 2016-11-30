@@ -7,7 +7,6 @@
 // @include      *wikipedia.org/*
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js
-// @updateURL    https://github.com/BoKu/Wikipedia-Fundraise-2016-Remover-Userscript/raw/master/Wikipedia%20Fundraise%202016%20Remover.user.js
 // ==/UserScript==
 (function() {
     'use strict';
